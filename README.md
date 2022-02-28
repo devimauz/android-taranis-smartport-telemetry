@@ -4,3 +4,6 @@ There is logging as well inside.
 
 Complied APK.
 2/28/2022
+
+To-Do
+UAV Radar useless, going to remove.
