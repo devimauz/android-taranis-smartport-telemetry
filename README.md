@@ -5,6 +5,6 @@ There is logging as well inside.
 Complied APK.
 2/28/2022
 
-To-Do \n
-UAV Radar useless, going to remove. \n
+To-Do  
+UAV Radar useless, going to remove.  
 Fix Flight Modes
